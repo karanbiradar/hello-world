@@ -17,12 +17,13 @@ class App extends Component{
     <ClassCLick></ClassCLick>*/}
     {/*<counter></counter>*/}
     {/*<Message></Message>*/}
-     {/* <Greet name ="Bruce" heroname="BatMan"><p>This is children props</p></Greet>
+      <Greet name ="Bruce" heroname="BatMan"><p>This is children props</p></Greet>
       <Greet name ="Clark" heroname="Superman"><button>Action</button></Greet>
       <Greet name ="Diana" heroname="Wonder Women"></Greet>
       <Welcome name ="Bruce" heroname="BatMan"></Welcome>
       <Welcome name ="Clark" heroname="Superman"></Welcome>
       <Welcome name ="Diana" heroname="Wonder Women"></Welcome>
+      {/* Hey how is it going*/}
     {/*<Hello></Hello>*/}
     </div>
   );
